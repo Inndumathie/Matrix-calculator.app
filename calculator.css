@@ -1,12 +1,12 @@
 body {
-    font-family: Arial, sans-serif;
+    font-family: Garamond;
     background-color: #a3d9f5;
     margin: 0;
     padding: 0;
     overflow: hidden;
 }
 
-.container {
+.layout {
     max-width: 600px;
     margin: 50px auto;
     background-color: #fff;
