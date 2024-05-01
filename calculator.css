@@ -6,7 +6,7 @@ body {
     overflow: hidden;
 }
 
-.container {
+.layout {
     max-width: 600px;
     margin: 50px auto;
     background-color: #fff;
